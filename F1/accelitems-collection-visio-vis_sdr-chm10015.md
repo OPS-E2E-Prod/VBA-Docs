@@ -1,6 +1,7 @@
 ---
 title: AccelItems Collection, Visio - [vis_sdr.chm10015]
 keywords: vis_sdr.chm10015
+toc_rel: TOC.json
 f1_keywords:
 - vis_sdr.chm10015
 ms.prod: office
